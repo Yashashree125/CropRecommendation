@@ -1,0 +1,337 @@
+DISTRICT,MONTH,CROP
+AHMEDNAGAR ,1,Tur
+AHMEDNAGAR ,2,Tur
+AHMEDNAGAR ,3,Beans
+AHMEDNAGAR ,4,Beans
+AHMEDNAGAR ,5,Beans
+AHMEDNAGAR ,6,Maize
+AHMEDNAGAR ,7,Maize
+AHMEDNAGAR ,8,Maize
+AHMEDNAGAR ,9,"Maize,Soyabean"
+AHMEDNAGAR ,10,Soyabean
+AHMEDNAGAR ,11,Soyabean
+AHMEDNAGAR ,12,Udid
+AKOLA ,1,
+AKOLA ,2,"Ginger,turmeric"
+AKOLA ,3,"Ginger,turmeric"
+AKOLA ,4,"Bajra,Ginger,turmeric"
+AKOLA ,5,Bajra
+AKOLA ,6,
+AKOLA ,7,Bajra
+AKOLA ,8,
+AKOLA ,9,Soyabean
+AKOLA ,10,"Soyabean,sweet potato"
+AKOLA ,11,"Soyabean,sweet potato"
+AKOLA ,12,sweet potato
+AMRAVATI ,1,tur
+AMRAVATI ,2,"tur,brinjal,ginger"
+AMRAVATI ,3,"brinjal,ginger"
+AMRAVATI ,4,"brinjal,ginger"
+AMRAVATI ,5,
+AMRAVATI ,6,
+AMRAVATI ,7,
+AMRAVATI ,8,
+AMRAVATI ,9,Soyabean
+AMRAVATI ,10,Soyabean
+AMRAVATI ,11,"Soyabean,brinjal"
+AMRAVATI ,12,"tur,brinjal"
+AURANGABAD (CHIKALTHANA) ,1,"Pumpkin,Tur,Cauliflower"
+AURANGABAD (CHIKALTHANA) ,2,"Tur,Turmeric,Cauliflower"
+AURANGABAD (CHIKALTHANA) ,3,"Turmeric,Cauliflower"
+AURANGABAD (CHIKALTHANA) ,4,Turmeric
+AURANGABAD (CHIKALTHANA) ,5,
+AURANGABAD (CHIKALTHANA) ,6,Maize
+AURANGABAD (CHIKALTHANA) ,7,Maize
+AURANGABAD (CHIKALTHANA) ,8,Maize
+AURANGABAD (CHIKALTHANA) ,9,"Maize,Soyabean,Pumpkin,Green Chili"
+AURANGABAD (CHIKALTHANA) ,10,"Soyabean,Pumpkin,Green Chili,Cauliflower"
+AURANGABAD (CHIKALTHANA) ,11,"Soyabean,Pumpkin,Green Chili,Cauliflower"
+AURANGABAD (CHIKALTHANA) ,12,"Tur,Pumpkin,Green Chili"
+BEED ,1,
+BEED ,2,Ginger
+BEED ,3,Ginger
+BEED ,4,Ginger
+BEED ,5,
+BEED ,6,Maize
+BEED ,7,Maize
+BEED ,8,Maize
+BEED ,9,"Maize,Soyabean"
+BEED ,10,"Soyabean,Udid"
+BEED ,11,"Soyabean,Udid"
+BEED ,12,Udid
+BULDHANA ,1,"Tomato,Cauliflower,Carrot "
+BULDHANA ,2,"Brinjal ,Cauliflower,Carrot "
+BULDHANA ,3,"Brinjal,Cauliflower,Garlic,Carrot "
+BULDHANA ,4,"Bajra,Brinjal,Garlic "
+BULDHANA ,5,Bajra
+BULDHANA ,6,Maize
+BULDHANA ,7,"Maize,Bajra"
+BULDHANA ,8,Maize
+BULDHANA ,9,"Maize,Soyabean,Onion,Green Chili"
+BULDHANA ,10,"Soyabean,Tomato,Udid,Onion,Green Chili,Cauliflower"
+BULDHANA ,11,"Soyabean,Tomato,Udid,Brinjal,Green Chili,Cauliflower"
+BULDHANA ,12,"Tomato,Udid,Brinjal,Green Chili"
+BRAHMAPURI ,1,"Cabbage,Cauliflower,Okra "
+BRAHMAPURI ,2,"Brinjal,Cabbage,Cauliflower  "
+BRAHMAPURI ,3,"Brinjal,Cauliflower "
+BRAHMAPURI ,4,Brinjal
+BRAHMAPURI ,5,
+BRAHMAPURI ,6,
+BRAHMAPURI ,7,
+BRAHMAPURI ,8,
+BRAHMAPURI ,9,"Green Chili,Okra"
+BRAHMAPURI ,10,"Cauliflower,Green Chili,Okra"
+BRAHMAPURI ,11,"Brinjal,Cabbage,Cauliflower,Green Chili,Okra"
+BRAHMAPURI ,12,"Brinjal,Cabbage,Green Chili,Okra"
+CHANDRAPUR ,1,Tomato
+CHANDRAPUR ,2,
+CHANDRAPUR ,3,
+CHANDRAPUR ,4,
+CHANDRAPUR ,5,
+CHANDRAPUR ,6,
+CHANDRAPUR ,7,
+CHANDRAPUR ,8,
+CHANDRAPUR ,9,Soyabean
+CHANDRAPUR ,10,"Soyabean,Tomato"
+CHANDRAPUR ,11,"Soyabean,Tomato"
+CHANDRAPUR ,12,Tomato
+NANDURBAR ,1,Cauliflower
+NANDURBAR ,2,"Cauliflower,Turmeric "
+NANDURBAR ,3,"Cauliflower,Turmeric "
+NANDURBAR ,4,Turmeric
+NANDURBAR ,5,
+NANDURBAR ,6,Maize
+NANDURBAR ,7,Maize
+NANDURBAR ,8,Maize
+NANDURBAR ,9,"Maize,Onion "
+NANDURBAR ,10,"Cauliflower,Onion "
+NANDURBAR ,11,Cauliflower
+NANDURBAR ,12,
+SIRONCHA ,1,"Tomato,Tur "
+SIRONCHA ,2,"Tur,Brinjal "
+SIRONCHA ,3,"Beans,Brinjal "
+SIRONCHA ,4,"Beans,Brinjal "
+SIRONCHA ,5,Beans
+SIRONCHA ,6,Beans
+SIRONCHA ,7,Beans
+SIRONCHA ,8,
+SIRONCHA ,9,
+SIRONCHA ,10,Tomato
+SIRONCHA ,11,"Tomato,Brinjal "
+SIRONCHA ,12,"Tomato,Tur,Brinjal "
+GADCHIROLI ,1,"Tomato,Tur "
+GADCHIROLI ,2,"Tur,Brinjal"
+GADCHIROLI ,3,"Beans,Brinjal"
+GADCHIROLI ,4,"Beans,Brinjal"
+GADCHIROLI ,5,Beans
+GADCHIROLI ,6,Beans
+GADCHIROLI ,7,Beans
+GADCHIROLI ,8,
+GADCHIROLI ,9,
+GADCHIROLI ,10,Tomato
+GADCHIROLI ,11,"Tomato,Brinjal"
+GADCHIROLI ,12,"Tomato,Tur,Brinjal"
+GONDIA ,1,"Capsicum,Okra,Tur"
+GONDIA ,2,"Capsicum,Tur"
+GONDIA ,3,Beans
+GONDIA ,4,Beans
+GONDIA ,5,Beans
+GONDIA ,6,Beans
+GONDIA ,7,Beans
+GONDIA ,8,
+GONDIA ,9,Okra
+GONDIA ,10,"Capsicum,Okra "
+GONDIA ,11,"Capsicum,Okra "
+GONDIA ,12,"Capsicum,Okra,Tur"
+HINGOLI ,1,"Tomato,Okra,Gram "
+HINGOLI ,2,"Brinjal,Gram "
+HINGOLI ,3,"Brinjal,Garlic,Gram "
+HINGOLI ,4,"Brinjal,Garlic "
+HINGOLI ,5,
+HINGOLI ,6,
+HINGOLI ,7,
+HINGOLI ,8,
+HINGOLI ,9,Okra
+HINGOLI ,10,"Tomato,Okra "
+HINGOLI ,11,"Tomato,Brinjal,Okra "
+HINGOLI ,12,"Tomato,Brinjal,Okra "
+JALGAON ,1,"Gram,Okra "
+JALGAON ,2,"Gram,Ginger,Brinjal "
+JALGAON ,3,"Gram,Garlic,Ginger,Brinjal   "
+JALGAON ,4,"Garlic,Ginger,Brinjal "
+JALGAON ,5,
+JALGAON ,6,Maize
+JALGAON ,7,Maize
+JALGAON ,8,Maize
+JALGAON ,9,"Maize,Okra "
+JALGAON ,10,Okra
+JALGAON ,11,"Brinjal,Okra "
+JALGAON ,12,"Brinjal,Okra "
+JALNA ,1,"Tur,Gram "
+JALNA ,2,"Tur,Turmeric,Ginger,Gram "
+JALNA ,3,"Turmeric,Ginger,Gram,Garlic  "
+JALNA ,4,"Turmeric,Ginger,Garlic "
+JALNA ,5,
+JALNA ,6,Maize
+JALNA ,7,Maize
+JALNA ,8,Maize
+JALNA ,9,"Maize,Onion "
+JALNA ,10,Onion
+JALNA ,11,
+JALNA ,12,Tur
+KOLHAPUR ,1,
+KOLHAPUR ,2,"Brinjal,Ginger,Turmeric  "
+KOLHAPUR ,3,"Brinjal,Ginger,Turmeric  "
+KOLHAPUR ,4,"Brinjal,Ginger,Turmeric  "
+KOLHAPUR ,5,
+KOLHAPUR ,6,
+KOLHAPUR ,7,
+KOLHAPUR ,8,
+KOLHAPUR ,9,
+KOLHAPUR ,10,
+KOLHAPUR ,11,Brinjal
+KOLHAPUR ,12,Brinjal
+UDGIR ,1,
+UDGIR ,2,
+UDGIR ,3,
+UDGIR ,4,
+UDGIR ,5,
+UDGIR ,6,
+UDGIR ,7,
+UDGIR ,8,
+UDGIR ,9,
+UDGIR ,10,
+UDGIR ,11,
+UDGIR ,12,
+NAGPUR ,1,Tomato
+NAGPUR ,2,"Cucumber,Brinjal "
+NAGPUR ,3,"Cucumber,Brinjal "
+NAGPUR ,4,"Cucumber,Brinjal "
+NAGPUR ,5,Cucumber
+NAGPUR ,6,
+NAGPUR ,7,
+NAGPUR ,8,
+NAGPUR ,9,
+NAGPUR ,10,Tomato
+NAGPUR ,11,"Tomato,Brinjal "
+NAGPUR ,12,"Tomato,Brinjal "
+NAGPUR (OLD CITY) ,1,"Tomato,Tur "
+NAGPUR (OLD CITY) ,2,Tur
+NAGPUR (OLD CITY) ,3,"Cucumber,Brinjal "
+NAGPUR (OLD CITY) ,4,"Cucumber,Brinjal "
+NAGPUR (OLD CITY) ,5,"Cucumber,Brinjal "
+NAGPUR (OLD CITY) ,6,
+NAGPUR (OLD CITY) ,7,
+NAGPUR (OLD CITY) ,8,
+NAGPUR (OLD CITY) ,9,
+NAGPUR (OLD CITY) ,10,Tomato
+NAGPUR (OLD CITY) ,11,Tomato
+NAGPUR (OLD CITY) ,12,"Tomato,Tur "
+NANDED ,1,Cauliflower
+NANDED ,2,"Cauliflower,Cucumber "
+NANDED ,3,"Cauliflower,Cucumber "
+NANDED ,4,Cucumber
+NANDED ,5,Cucumber
+NANDED ,6,Maize
+NANDED ,7,Maize
+NANDED ,8,Maize
+NANDED ,9,"Maize,Onion"
+NANDED ,10,"Onion,Cauliflower"
+NANDED ,11,Cauliflower
+NANDED ,12,
+NASHIK ,1,
+NASHIK ,2,"Cucumber,Brinjal "
+NASHIK ,3,"Cucumber,Brinjal "
+NASHIK ,4,"Cucumber,Brinjal "
+NASHIK ,5,Cucumber
+NASHIK ,6,Maize
+NASHIK ,7,Maize
+NASHIK ,8,Maize
+NASHIK ,9,Maize
+NASHIK ,10,
+NASHIK ,11,Brinjal
+NASHIK ,12,Brinjal
+OSMANABAD ,1,Okra
+OSMANABAD ,2,Ginger
+OSMANABAD ,3,Ginger
+OSMANABAD ,4,Ginger
+OSMANABAD ,5,
+OSMANABAD ,6,Maize
+OSMANABAD ,7,Maize
+OSMANABAD ,8,Maize
+OSMANABAD ,9,"Maize,Okra "
+OSMANABAD ,10,Okra
+OSMANABAD ,11,Okra
+OSMANABAD ,12,Okra
+PARBHANI ,1,"Gram,Cauliflower,Tur,Brinjal "
+PARBHANI ,2,"Gram,Wheat,Cucumber,Cauliflower,Brinjal "
+PARBHANI ,3,"Gram,Wheat,Cucumber,Cauliflower,Brinjal "
+PARBHANI ,4,"Wheat,Cucumber,Brinjal  "
+PARBHANI ,5,Cucumber
+PARBHANI ,6,
+PARBHANI ,7,
+PARBHANI ,8,
+PARBHANI ,9,
+PARBHANI ,10,Cauliflower 
+PARBHANI ,11,Cauliflower
+PARBHANI ,12,Tur 
+PUNE ,1,"Tomato,Gram"
+PUNE ,2,"Cucumber,Gram,Wheat"
+PUNE ,3,"Cucumber,Gram,Wheat"
+PUNE ,4,"Cucumber,Wheat"
+PUNE ,5,Cucumber
+PUNE ,6,Maize
+PUNE ,7,Maize
+PUNE ,8,Maize
+PUNE ,9,"Maize,Green Chili"
+PUNE ,10,"Tomato,Green Chili"
+PUNE ,11,"Cabbage,Tomato,Green Chili"
+PUNE ,12,"Cabbage,Tomato,Green Chili"
+RAIGARH ,1,Tomato
+RAIGARH ,2,
+RAIGARH ,3,
+RAIGARH ,4,
+RAIGARH ,5,
+RAIGARH ,6,
+RAIGARH ,7,
+RAIGARH ,8,
+RAIGARH ,9,"Green Chili,Onion"
+RAIGARH ,10,"Tomato,Green Chili,Udid,Onion"
+RAIGARH ,11,"Tomato,Green Chili,Udid"
+RAIGARH ,12,"Tomato,Green Chili,Udid"
+WARDHA ,1,"Tur,Gram"
+WARDHA ,2,"Tur,Gram,Wheat"
+WARDHA ,3,"Gram,Wheat,Garlic"
+WARDHA ,4,"Gram,Wheat,Garlic"
+WARDHA ,5,Bajra
+WARDHA ,6,
+WARDHA ,7,
+WARDHA ,8,
+WARDHA ,9,
+WARDHA ,10,
+WARDHA ,11,
+WARDHA ,12,Tur 
+WASHIM ,1,"Tur,Gram"
+WASHIM ,2,"Tur,Ginger,Gram,Wheat"
+WASHIM ,3,"Ginger,Gram,Wheat"
+WASHIM ,4,"Bajra,Ginger,Wheat"
+WASHIM ,5,Bajra
+WASHIM ,6,
+WASHIM ,7,
+WASHIM ,8,
+WASHIM ,9,
+WASHIM ,10,Udid
+WASHIM ,11,Udid
+WASHIM ,12,"Udid,Tur"
+YAVATMAL ,1,"Cauliflower,Gram"
+YAVATMAL ,2,"Cauliflower,Ginger,Gram,Wheat,Cucumber"
+YAVATMAL ,3,"Cauliflower,Ginger,Gram,Wheat,Cucumber,Garlic"
+YAVATMAL ,4,"Bajra,Ginger,Wheat,Cucumber,Garlic"
+YAVATMAL ,5,"Bajra,Cucumber"
+YAVATMAL ,6,
+YAVATMAL ,7,
+YAVATMAL ,8,
+YAVATMAL ,9,
+YAVATMAL ,10,Cauliflower
+YAVATMAL ,11,Cauliflower
+YAVATMAL ,12,
