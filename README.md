@@ -8,4 +8,6 @@ Utilizing 22 years of climatic and agricultural data (2001–2022) from the **In
 This project is formally published in
 [Crop Recommendation and Forecasting System for Maharashtra Using Machine Learning with LSTM: A Novel Expectation-Maximization Technique](https://link.springer.com/article/10.1007/s43621-024-00292-5)
 
+Visit: https://maharashtra-crop-recommendation.onrender.com/
+
 For questions, collaborations, or access to the full dataset and architecture, feel free to connect: yashashree125@gmail.com
