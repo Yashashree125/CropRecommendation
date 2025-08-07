@@ -10,4 +10,4 @@ This project is formally published in
 
 Visit: https://maharashtra-crop-recommendation.onrender.com/
 
-For questions, collaborations, or access to the full dataset and architecture, feel free to connect: yashashree125@gmail.com
+For questions, collaborations, or access to dataset and architecture, feel free to connect: yashashree125@gmail.com
